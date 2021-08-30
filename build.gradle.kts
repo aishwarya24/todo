@@ -4,7 +4,6 @@ plugins {
 	id("org.springframework.boot") version "2.5.1"
 	id("io.spring.dependency-management") version "1.0.11.RELEASE"
 	id("java")
-	id("org.springframework.experimental.aot") version "0.9.1"
 }
 
 group = "io.humourmind"
